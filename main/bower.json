@@ -1,0 +1,43 @@
+{
+  "name": "hbUi.sse",
+  "version": "0.0.1",
+  "main": [
+    "dist/hbUi.sse-0.0.1.js",
+    "dist/hbUi.sse-0.0.1.css"
+  ],
+  "homepage": "https://github.com/bsisa/hbUi.sse",
+  "authors": [
+    "Patrick Refondini <patrick@refondini.com>"
+  ],
+  "description": "HyperBird UI - Server Sent Events AngularJS module",
+  "keywords": [
+    "geoxml",
+    "hyperbird",
+    "SSE"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "css",
+    "doc",
+    "generated",
+    "lib",
+    "node_modules",
+    "src",
+    "test"
+  ],
+  "dependencies": {
+    "angular": "1.2.16",
+    "angular-resource": "1.2.16",
+    "angular-i18n": "1.2.16",
+    "jquery": "1.11.1",
+    "angular-ui-utils": "0.1.1",
+    "underscore" : "1.6.0",
+    "moment" : "2.8.3",
+    "angular-filter" : "0.5.1"
+  },
+  "resolutions": {
+    "angular": "1.2.16"
+  }
+}
